@@ -10,6 +10,9 @@ package CrittersPackage;
  *
  * @author Shaun
  */
-public class Frog {
+public class Frog extends Critter 
+{
+    
+    
     
 }
